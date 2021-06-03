@@ -37,3 +37,41 @@
   
 
 # AND DONOT FORGET TO UPADTE YOUR .spec FILE AS in MENTIONED IN POINT 3
+
+
+# Here goes some sample images:
+
+### Front page without loading the weather and news
+![image1](https://user-images.githubusercontent.com/66205793/120650815-c7715380-c49b-11eb-898e-233aca4405a0.jpg)
+
+### Front page after loading the weather and news
+
+![image2](https://user-images.githubusercontent.com/66205793/120650865-cf30f800-c49b-11eb-9437-f0c86d15e742.jpg)
+
+### The Wikipedia tab with a view of the result of search
+
+![image3](https://user-images.githubusercontent.com/66205793/120650981-e7a11280-c49b-11eb-9bc4-4e108b12ba9a.jpg)
+
+### The Calculator Tab(I)
+
+![image4](https://user-images.githubusercontent.com/66205793/120651076-fdaed300-c49b-11eb-96bd-9b328a554491.jpg)
+
+### The Calculator Tab(II)
+
+![image5](https://user-images.githubusercontent.com/66205793/120651191-220aaf80-c49c-11eb-8b45-93dc3a68db1d.jpg)
+
+### Todo Tab showing some task to do
+![image6](https://user-images.githubusercontent.com/66205793/120651106-099a9500-c49c-11eb-8399-46c02485ef14.jpg)
+
+
+### Todo Tab showing some task to do along with the view of editing
+![image7](https://user-images.githubusercontent.com/66205793/120651128-0f907600-c49c-11eb-8f4f-131263997fbb.jpg)
+
+### Todo Tab showing some task to do with a task edited
+![image8](https://user-images.githubusercontent.com/66205793/120651135-11f2d000-c49c-11eb-85bc-b9550b983878.jpg)
+
+### The Local Music player tab(work in progress)
+![image9](https://user-images.githubusercontent.com/66205793/120651145-161eed80-c49c-11eb-8e1b-d3312996e809.jpg)
+
+### Credits
+![image10](https://user-images.githubusercontent.com/66205793/120651179-1f0fbf00-c49c-11eb-9162-77100260f16e.jpg)
