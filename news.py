@@ -4,6 +4,7 @@ from time import gmtime, strftime
 import time
 import asyncio
 
+# This needs to be updated after test to ensure working condition
 def getNews(code,query):
     xml_doc = req.get(f"https://news.google.com/rss/search?hl=en-IN&gl=IN&q={query}&ceid=IN:en").text
     url = f"http://api.openweathermap.org/data/2.5/weather?zip={code}&units=metric&appid=0a1540015ff9329ec87514758f7ebd78"
