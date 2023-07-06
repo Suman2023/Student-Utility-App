@@ -149,7 +149,7 @@ default = [
 				sg.Button("Close All",)
 			],
 		], size = (700,800),
-			 ), # column 1
+			 ), 
 
 	
 
