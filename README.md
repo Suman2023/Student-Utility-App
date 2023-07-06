@@ -36,7 +36,7 @@
 	inside in venv type: pyinstaller --onefile --noconsole app.py (the simplest way)
   
 
-### >>>>> DONOT FORGET TO UPADTE YOUR .spec FILE AS in MENTIONED IN POINT 3   <<<<<
+### >>>>> DONOT FORGET TO UPADTE YOUR .spec FILE AS in MENTIONED IN POINT 3 <<<<<
 
 
 # Here goes some sample images:
